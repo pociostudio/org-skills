@@ -7,7 +7,6 @@
 | design-motion-principles | Copia locale di `~/.agents/skills/design-motion-principles` (origine non documentata) | Da confermare prima della distribuzione |
 | playwright-cli | `@playwright/cli` 0.1.22 (npm) | `npx -p @playwright/cli playwright-cli install --skills -g` |
 | img2threejs | https://github.com/img2threejs/img2threejs (commit `d508b59`) | Vedi LICENSE nel repo originale |
+| founder-board, founder-brand, founder-cfo, founder-competitors, founder-consumer, founder-launch, founder-marketing, founder-offer, founder-ops, founder-plan, founder-pricing | https://github.com/Jakeschincariol/founder-skill (commit `fd9385b`, MIT) | Script Python senza chiamate di rete né shell. Non eseguiti in fase di verifica |
 
 Prima di distribuire a più persone, verifica la licenza di ogni fonte.
-
-| founder-board, founder-brand, founder-cfo, founder-competitors, founder-consumer, founder-launch, founder-marketing, founder-offer, founder-ops, founder-plan, founder-pricing | https://github.com/Jakeschincariol/founder-skill (commit `fd9385b`, MIT) | Script Python senza chiamate di rete né shell. Non eseguiti in fase di verifica |
